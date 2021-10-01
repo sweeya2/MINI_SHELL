@@ -3,8 +3,11 @@
 ### OPERATING SYSTEM : LINUX
 
 ### Initial two arguments to execute the shell:
-#### COMPILE : g++ mini_shell.cpp
-#### RUN : ./a.out
+```
+g++ mini_shell.cpp
+./a.out
+```
+
 ### KEY FEATURES INCLUDED:
 1. Environment variables
 2. Path functions
